@@ -1,0 +1,9 @@
+parameters:
+    level: 10
+    treatPhpDocTypesAsCertain: true
+    reportUnmatchedIgnoredErrors: false
+    checkImplicitMixed: true
+    reportMaybesInMethodSignatures: false
+    reportMaybesInPropertyPhpDocTypes: false
+    reportPossiblyNonexistentGeneralArrayOffset: true
+    reportPossiblyNonexistentConstantArrayOffset: true
